@@ -20,7 +20,7 @@ local sensor = ""
 local apikey = ""
 
 --================================
-local debug = true --<<<<<<<<<<<<< Don't forget to "false" it before using
+local debug = false --<<<<<<<<<<<<< Don't forget to "false" it before using
 --================================
 local sk=net.createConnection(net.TCP, 0)
 
